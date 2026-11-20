@@ -1,20 +1,3 @@
-# Projet 3 – Tableau de bord Power BI : marché du travail à La Réunion
-
-## Statut honnête des livrables
-
-Ce dossier est un **kit final prêt à construire dans Power BI Desktop**. Il ne contient pas de fichier `.pbix` : ce format doit être créé et enregistré dans Power BI Desktop. La maquette PNG fournie est une référence visuelle, **pas une capture d'un rapport Power BI exécuté**.
-
-| Élément | État |
-|---|---|
-| CSV source | Fourni |
-| Mesures DAX | Fournies |
-| Requête Power Query | Fournie, chemin local à adapter |
-| Script de contrôle | Corrigé pour fonctionner depuis ce dossier |
-| Rapport et fiche portfolio | Fournis |
-| Maquette visuelle | Fournie, explicitement identifiée comme maquette |
-| Fichier PBIX réel | À créer dans Power BI Desktop |
-| Capture réelle Power BI | À prendre après création du PBIX |
-
 ## Données et périmètre
 
 Source indiquée dans le dossier initial : Insee, *Flash Réunion* n° 308 (avril 2026), figure 2, enquêtes Emploi, taux de chômage BIT en moyennes annuelles 2014–2025. Le CSV contient 48 lignes : 12 années × 3 catégories de sexe à La Réunion et une série « Ensemble » pour l'Hexagone. Les valeurs sont reproduites telles qu'indiquées dans le dossier source ; elles ne doivent pas être extrapolées.
